@@ -888,8 +888,8 @@
     .hero__button {
         width: 140px;
         height: 39px;
-        margin-left: 59px;
-        margin-bottom: 47px;
+        display: block;
+        margin: 0 auto;
     }
     .header__nav-sign {
         margin-right: -15px;
