@@ -880,7 +880,7 @@
     }
     .hero {
         height: 100vh;
-        min-height: 1130px;
+        min-height: 1140px;
     }
     .hero__box-3 {
         margin-left: 1px;
@@ -1025,6 +1025,21 @@
         bottom: -84px;
         height: 63px;
         display: none;
+    }
+    .footer__footer-logo {
+
+        justify-content: center;
+
+    }
+    .footer__footer-text {
+        display: block;
+        margin: 0 auto 30px;
+    }
+    .footer__border{
+        text-align: center;
+    }
+    .footer__year{
+        text-align: center;
     }
 }
 
